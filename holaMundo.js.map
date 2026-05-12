@@ -1,1 +1,1 @@
-{"version":3,"file":"holaMundo.js","sourceRoot":"","sources":["holaMundo.ts"],"names":[],"mappings":"AAAA,MAAM,IAAI,GAAW,gBAAgB,CAAC;AAEtC,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC"}
+{"version":3,"file":"holaMundo.js","sourceRoot":"","sources":["holaMundo.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,GAAG;IACX,KAAK,EAAE,EAAE;IACT,QAAQ,EAAE,CAAC;IACX,MAAM,EAAE,EAAE;CACb,CAAC;AAEF,MAAM,CAAC,KAAK,GAAG,GAAG,CAAC;AACnB,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,KAAK,CAAC,CAAC"}

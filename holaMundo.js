@@ -1,4 +1,9 @@
-const hola = "Hola Mundo 2.0";
-console.log(hola);
+const ventas = {
+    total: 50,
+    cantidad: 2,
+    precio: 25
+};
+ventas.total = 100;
+console.log(ventas.total);
 export {};
 //# sourceMappingURL=holaMundo.js.map

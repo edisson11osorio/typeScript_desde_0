@@ -1,3 +1,8 @@
-const hola: string = "Hola Mundo 2.0";
+const ventas = {
+    total: 50,
+    cantidad: 2,
+    precio: 25
+};
 
-console.log(hola); 
+ventas.total = 100;
+console.log(ventas.total);
